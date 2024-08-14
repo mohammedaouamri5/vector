@@ -1,9 +1,10 @@
-package vector
+package main
 
-import (
-	"fmt"
-)
+import "github.com/mohammedaouamri5/vector/vector"
 
-func bruh() {
-	fmt.Print("BRUH")
+
+
+
+func main() {
+	vector.Bruh()
 }
